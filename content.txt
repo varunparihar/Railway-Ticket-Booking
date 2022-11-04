@@ -1,0 +1,12 @@
+from_station CNB
+train_no 12381
+to_station DHN
+
+from_station CNB
+train_no 12184
+to_station DHN
+
+from_station CNB
+train_no 14006
+to_station DHN
+
